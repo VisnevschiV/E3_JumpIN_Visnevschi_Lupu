@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1579083701 source:c:\users\vlad\desktop\ip_project\main.cpp
+	"menu-animations.h"
+	"game-positions.h"
+	"game_prog_help.h"
+	"game_buttons.h"
+	<fstream>
+
+1578412955 source:c:\users\vlad\desktop\ip_project\menu-animations.cpp
+	"menu-animations.h"
+
+1578412955 c:\users\vlad\desktop\ip_project\menu-animations.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1579079080 source:c:\users\vlad\desktop\ip_project\game-positions.cpp
+	"game-positions.h"
+
+1579078751 c:\users\vlad\desktop\ip_project\game-positions.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1578404428 source:c:\users\vlad\desktop\ip_project\game-prog-help.cpp
+	"game-prog-help.h"
+
+1578404479 c:\users\vlad\desktop\ip_project\game-prog-help.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1578601400 source:c:\users\vlad\desktop\ip_project\game_prog_help.cpp
+	"game_prog_help.h"
+
+1578586587 c:\users\vlad\desktop\ip_project\game_prog_help.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1578406834 source:c:\users\vlad\desktop\ip_project\game-buttons.cpp
+	"game-buttons.h"
+
+1578408045 c:\users\vlad\desktop\ip_project\game-buttons.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1578597968 source:c:\users\vlad\desktop\ip_project\game_buttons.cpp
+	"game_buttons.h"
+
+1578586587 c:\users\vlad\desktop\ip_project\game_buttons.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1578409187 source:c:\users\vlad\desktop\ip_project\game_object_release.cpp
+	"game_object_release.h"
+
+1578408909 c:\users\vlad\desktop\ip_project\game_object_release.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
